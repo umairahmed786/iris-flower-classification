@@ -1,4 +1,4 @@
-readme_content = """
+
 # Iris Flower Dataset
 
 This repository contains the Iris Flower dataset and associated code for analysis and exploration. The Iris Flower dataset is a well-known dataset in the realm of machine learning and is commonly used for practicing classification algorithms.
@@ -17,8 +17,7 @@ The primary objective of this dataset is to predict the species of iris flowers 
 ## File Structure
 
 - `iris.csv`: The dataset in CSV format containing measurements of the iris flowers.
-- `analysis.ipynb`: Jupyter Notebook file containing exploratory data analysis (EDA), data visualization, and machine learning models applied to the dataset.
-- `requirements.txt`: File listing the necessary Python libraries and their versions required to run the code.
+- `Iris_Flower_Detection.ipynb`: Jupyter Notebook file containing exploratory data analysis (EDA), data visualization, and machine learning models applied to the dataset.
 
 ## Usage
 
@@ -27,5 +26,22 @@ To utilize this dataset and associated code:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/iris-flower-dataset.git
-   cd iris-flower-dataset
+   git clone https://github.com/umairahmed786/iris-flower-classification.git
+2 Open and execute the Iris_Flower_Detection.ipynb Jupyter Notebook on Google Colab.
+
+## Acknowledgment
+
+The Iris Flower dataset is sourced from the UCI Machine Learning Repository and was introduced by Ronald Fisher in 1936. It has been extensively used in various machine learning tutorials, courses, and research projects.
+
+
+## License
+
+This dataset is available under the Creative Commons Attribution 1.0 License.
+
+## About
+
+This repository is maintained by Umair Ahmed and was created for educational and demonstration purposes.
+
+Feel free to contribute, provide feedback, or use this dataset for your projects.
+
+For any questions or inquiries, please contact umairahmedpaki7@gmail.com.com.
