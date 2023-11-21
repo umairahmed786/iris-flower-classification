@@ -36,7 +36,7 @@ The Iris Flower dataset is sourced from the UCI Machine Learning Repository and 
 
 ## License
 
-This dataset is available under the Creative Commons Attribution 1.0 License.
+This dataset is available under the Creative Commons Attribution 1.0 [License](https://creativecommons.org/publicdomain/zero/1.0/).
 
 ## About
 
